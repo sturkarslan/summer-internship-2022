@@ -1,6 +1,9 @@
-Instructions 
+Instructions:
 
-
+  1. Install jupyter notebook.
+  2. Make sure to download each of the required files before running the specific jupyter notebook. 
+  3. Inside each main file, there are text documents which provide which files are the outputs from running the notebooks. You can search through the files and find the 
+  outputs if needed.
 
 
 
