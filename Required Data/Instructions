@@ -1,0 +1,22 @@
+Instructions:
+
+**ORDER OF NOTEBOOKS**:
+Step 1: Network Mapping 
+Step 2: Regulon Validation
+Step 3: Cox HR Calculation MINER
+Step 4: TF Regulon Statistical Test
+Step 5: Coherence Tests 
+Step 6: Disease Relevant C-M Filtering
+Step 7: Program Activity Cohort
+
+
+
+Steps to install/use notebooks:
+  1. Install jupyter notebook.
+  2. Make sure to download each of the required files before running the specific jupyter notebook. 
+  3. Inside each main file, there are subfolders called "DOWNLOAD THESE TO RUN" where there are text documents that show which files are the outputs from running the notebooks. 
+  You can search through the files and find the outputs if needed.
+
+
+
+

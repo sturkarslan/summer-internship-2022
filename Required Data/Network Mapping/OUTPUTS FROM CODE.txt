@@ -1,0 +1,13 @@
+From the Network Mapping folder:
+
+Outputs:
+- mosaic_allFrench.pdf
+- transcriptional_programsFrench.pdf
+- mosaic_allRembrandt.pdf
+- transcriptional_programsRembrandt.pdf
+- mosaic_allIvyAtlas.pdf
+- transcriptional_programsIvyAtlas.pdf
+- mosaic_allMurat.pdf
+- transcriptional_programsMurat.pdf
+
+All of these outputs will be put into the "DOWNLOAD THESE TO RUN" folder and you can navigate through to find the outputs if needed. 
